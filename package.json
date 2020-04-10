@@ -73,7 +73,7 @@
     "webpack-dev-server": "^3.10.3",
 depfu/update/yarn/webpack-cli-3.3.11
     "whatwg-fetch": "^2.0.3",
-    "ws": "^7.2.0"
+    "ws": "^7.2.3"
   },
   "dependencies": {
     "adbkit": "^2.11.0",
@@ -108,7 +108,7 @@ depfu/update/yarn/webpack-cli-3.3.11
     "electron-installer-redhat": "^2.0.0"
   },
   "resolutions": {
-    "ws": "^7.2.0"
+    "ws": "^7.2.3"
   },
   "jest": {
     "testEnvironment": "node"
